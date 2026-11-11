@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>doist/renovate-config:android-base"
+    "github>todoist/renovate-config:android-base"
   ]
 }
